@@ -96,7 +96,6 @@ flight-delay-analysis-dashboard/
 │   └── README.md
 ├── docs/
 │   ├── dax-measures.md
-│   └── github-upload-guide.md
 ├── screenshots/
 │   ├── 01-executive-overview.png
 │   ├── 02-airline-performance.png
