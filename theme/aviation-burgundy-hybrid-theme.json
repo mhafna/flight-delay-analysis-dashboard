@@ -1,0 +1,27 @@
+{
+  "name": "Aviation Burgundy Hybrid",
+  "dataColors": [
+    "#7A1E48",
+    "#243B64",
+    "#D6B06A",
+    "#C44D7A",
+    "#4C956C",
+    "#A66A84",
+    "#D97B5A",
+    "#6C5B7B"
+  ],
+  "good": "#4C956C",
+  "neutral": "#D6B06A",
+  "bad": "#B23A48",
+  "maximum": "#7A1E48",
+  "center": "#D6B06A",
+  "minimum": "#F4DCE6",
+  "null": "#B8A7AF",
+  "firstLevelElements": "#2B1721",
+  "secondLevelElements": "#6B5861",
+  "thirdLevelElements": "#E8DDE2",
+  "fourthLevelElements": "#A88B98",
+  "background": "#FFF9FB",
+  "secondaryBackground": "#F2E6EB",
+  "tableAccent": "#7A1E48"
+}
